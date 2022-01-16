@@ -361,3 +361,4 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/AspnetAngularCodeSamples/Properties/ServiceDependencies/ExpeoAspnetAngularCodeSamples - Web Deploy/profile.arm.json
